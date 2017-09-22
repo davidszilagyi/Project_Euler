@@ -20,6 +20,9 @@ namespace Project_Euler
             Console.WriteLine("\nProblem 4:");
             Problem_4 p4 = new Problem_4();
             Console.WriteLine(p4.PalindromeNumber(999, 100));
+            Console.WriteLine("\nProblem 5:");
+            Problem_5 p5 = new Problem_5();
+            Console.WriteLine(p5.SmallestNumber(1, 20));
             Console.ReadKey();
         }
     }
