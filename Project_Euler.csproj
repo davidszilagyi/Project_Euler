@@ -42,7 +42,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Problem_1.cs" />
+    <Compile Include="Problem_Solver\Problem_1.cs" />
+    <Compile Include="Problem_Solver\Problem_2.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

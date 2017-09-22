@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Project_Euler.Problem_Solver;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

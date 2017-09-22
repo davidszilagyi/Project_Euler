@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Project_Euler
+namespace Project_Euler.Problem_Solver
 {
     class Problem_1
     {
