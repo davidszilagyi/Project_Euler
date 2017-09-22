@@ -17,6 +17,9 @@ namespace Project_Euler
             Console.WriteLine("\nProblem 3:");
             Problem_3 p3 = new Problem_3();
             Console.WriteLine(p3.Calculate(600851475143));
+            Console.WriteLine("\nProblem 4:");
+            Problem_4 p4 = new Problem_4();
+            Console.WriteLine(p4.PalindromeNumber(999, 100));
             Console.ReadKey();
         }
     }
