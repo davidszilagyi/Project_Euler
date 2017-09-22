@@ -10,8 +10,8 @@ namespace Project_Euler.Problem_Solver
     {
         public dynamic EvenFibonacci(dynamic to)
         {
-            dynamic result = 2;
-            dynamic[] fibonacci = new dynamic[] { 1, 2 };
+            dynamic result = 0;
+            dynamic[] fibonacci = new dynamic[] { 1, 1 };
             for(dynamic i = 0; i < to; i++)
             {
                 dynamic count = fibonacci[0] + fibonacci[1];
