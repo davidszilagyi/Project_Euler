@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Project_Euler.Problem_Solver
 {
-    class Problem_5 : Problem
+    class Problem_5
     {
         public long SmallestNumber(int from, int to)
         {

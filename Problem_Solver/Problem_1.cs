@@ -1,6 +1,6 @@
 ﻿namespace Project_Euler.Problem_Solver
 {
-    class Problem_1 : Problem
+    class Problem_1
     {
         public int Multiples(int to, params int[] numbers)
         {

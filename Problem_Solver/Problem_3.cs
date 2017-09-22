@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Project_Euler.Problem_Solver
 {
-    class Problem_3 : Problem
+    class Problem_3
     {
         public dynamic Calculate(dynamic to)
         {
