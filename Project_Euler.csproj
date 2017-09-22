@@ -44,6 +44,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Problem_Solver\Problem.cs" />
     <Compile Include="Problem_Solver\Problem_1.cs" />
     <Compile Include="Problem_Solver\Problem_2.cs" />
     <Compile Include="Problem_Solver\Problem_3.cs" />
