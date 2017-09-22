@@ -10,6 +10,9 @@ namespace Project_Euler
     {
         static void Main(string[] args)
         {
+            Problem_1 p1 = new Problem_1();           
+            Console.WriteLine(p1.Multiples(1000, 3, 5));
+            Console.ReadKey();
         }
     }
 }
