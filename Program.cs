@@ -26,6 +26,9 @@ namespace Project_Euler
             Console.WriteLine("\nProblem 6:");
             Problem_6 p6 = new Problem_6();
             Console.WriteLine(p6.Squares(1, 100));
+            Console.WriteLine("\nProblem 7:");
+            Problem_7 p7 = new Problem_7();
+            Console.WriteLine(p7.WhatIsThePrime(10001));
             Console.ReadKey();
         }
     }
