@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Project_Euler.Problem_Solver
 {
-    class Problem_4
+    class Problem_04
     {
         public long PalindromeNumber(int from, int to)
         {

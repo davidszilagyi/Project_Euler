@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Project_Euler.Problem_Solver
 {
-    class Problem_7
+    class Problem_07
     {
         public long WhatIsThePrime(int index)
         {

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Project_Euler.Problem_Solver
 {
-    class Problem_9
+    class Problem_09
     {
         public long FindABC(int number)
         {

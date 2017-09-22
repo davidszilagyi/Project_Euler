@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Project_Euler.Problem_Solver
 {
-    class Problem_6
+    class Problem_06
     {
         public int Squares(int from, int to)
         {

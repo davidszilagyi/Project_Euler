@@ -44,15 +44,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Problem_Solver\Problem_1.cs" />
-    <Compile Include="Problem_Solver\Problem_2.cs" />
-    <Compile Include="Problem_Solver\Problem_3.cs" />
-    <Compile Include="Problem_Solver\Problem_4.cs" />
-    <Compile Include="Problem_Solver\Problem_5.cs" />
-    <Compile Include="Problem_Solver\Problem_6.cs" />
-    <Compile Include="Problem_Solver\Problem_7.cs" />
-    <Compile Include="Problem_Solver\Problem_8.cs" />
-    <Compile Include="Problem_Solver\Problem_9.cs" />
+    <Compile Include="Problem_Solver\Problem_01.cs" />
+    <Compile Include="Problem_Solver\Problem_10.cs" />
+    <Compile Include="Problem_Solver\Problem_02.cs" />
+    <Compile Include="Problem_Solver\Problem_03.cs" />
+    <Compile Include="Problem_Solver\Problem_04.cs" />
+    <Compile Include="Problem_Solver\Problem_05.cs" />
+    <Compile Include="Problem_Solver\Problem_06.cs" />
+    <Compile Include="Problem_Solver\Problem_07.cs" />
+    <Compile Include="Problem_Solver\Problem_08.cs" />
+    <Compile Include="Problem_Solver\Problem_09.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

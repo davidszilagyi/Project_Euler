@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Project_Euler.Problem_Solver
 {
-    class Problem_2
+    class Problem_02
     {
         public dynamic EvenFibonacci(dynamic to)
         {

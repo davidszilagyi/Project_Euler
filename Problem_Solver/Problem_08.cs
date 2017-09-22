@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Project_Euler.Problem_Solver
 {
-    class Problem_8
+    class Problem_08
     {
         private string number = "73167176531330624919225119674426574742355349194934" +
             "96983520312774506326239578318016984801869478851843" +
