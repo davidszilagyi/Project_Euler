@@ -23,6 +23,9 @@ namespace Project_Euler
             Console.WriteLine("\nProblem 5:");
             Problem_5 p5 = new Problem_5();
             Console.WriteLine(p5.SmallestNumber(1, 20));
+            Console.WriteLine("\nProblem 6:");
+            Problem_6 p6 = new Problem_6();
+            Console.WriteLine(p6.Squares(1, 100));
             Console.ReadKey();
         }
     }
